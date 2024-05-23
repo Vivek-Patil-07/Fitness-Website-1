@@ -1,0 +1,116 @@
+.site-logo {
+    position: relative;
+    font-weight: 900;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+
+#pqr {
+    margin-top: -99px;
+}
+.bgimg, .bgimg .container .row {
+    height: 498px;
+}
+.bgimg, .bgimg .container .row {
+    height: 298px!important;
+}
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#services{
+    text-align: center;
+    margin-top: 16px!important;
+}
+
+#dd{
+    text-align: center;
+    margin-top: -104px!important;
+}
+
+#the{
+padding: 30px;
+}
+
+#pho {
+    width:60px;
+    margin-top:30px;
+}
+#headi {
+    font-size: 15px!important;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: -27px;
+}
+#para{
+    font-size: 16px;
+    font-family: inherit;
+    text-align: justify;
+    margin-top:30px !important;
+    padding: 2px;
+    font-weight:490;
+}
+#pht h6{
+    font-size: 19px;
+    font-family:revert;
+    font-weight: 450;
+    color: black;
+    margin-top: 25px;
+    margin-bottom: 20px;  
+}
+#button1 {
+	border-radius: 10%;  background-color: #000; /* Green */
+ border-radius: 0%;
+    background-color: #000;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    width: 259px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 61%;
+}
+
+
+
+
+
+
+
+
+
+
+#xml{
+    text-align: center;
+    margin-top: 60px!important;
+}
+#sdf{
+    margin-top:-15px; font-size:3.5rem;
+    text-align: center;
+    margin-top: 50px!important;
+}
+
+
+#abp{
+    font-size: 19px;
+    font-family:revert;
+    font-weight: 450;
+    color: black;
+    margin-top: 25px;
+    margin-bottom: 20px; 
+}
+
+
+
+
+
+
+
